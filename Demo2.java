@@ -7,7 +7,7 @@ public class Demo2 {
         float f= 5.67f;
         double d = .1234;
 
-        double result =(f * b) +  ( i / c) -  ( d * s);
+        double result =(f * b) +  ( i / c) +  ( d * s);
         //f*b-->float
         //i /c-->integer
         //d*s-->double
