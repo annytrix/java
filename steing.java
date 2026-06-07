@@ -4,7 +4,7 @@ public class steing {
         String firstName = "Anny";
         String lastName = "singh";
         String middlename = "Anny";
-        String fullName = firstName + " " + lastName;
+        String fullName = firstName + " " + middlename + " " + lastName;
 
         System.out.println(fullName);  // Anny singh
     }
