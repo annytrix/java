@@ -39,11 +39,11 @@ public class arry {
         // marks[2][1] = 78;
         // marks[2][2] = 45;
 
-        // /*
-        //     [23]
-        //     [24] [90]
-        //     [12] [78] [45]
-        // */
+        /*
+            [23]
+            [24] [90]
+            [12] [78] [45]
+        */
 
 
         // for(int row = 0; row < marks.length; row++) {
@@ -60,7 +60,7 @@ public class arry {
         //     System.out.println(rollNums[i]);
         // }
 
-        // 2-D array
+        //2-D array
         int[][] marks = {
             {12, 14, 56},
             {34, 45, 67},

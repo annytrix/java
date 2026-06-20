@@ -3,8 +3,8 @@ public class steing {
         // Strings
         String firstName = "Anny";
         String lastName = "singh";
-
-        String fullName = firstName + " " + lastName;
+        String middlename = "Anny";
+        String fullName = firstName + " " + middlename + " " + lastName;
 
         System.out.println(fullName);  // Anny singh
     }
