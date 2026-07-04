@@ -1,4 +1,4 @@
-public class Demo5 {
+public class Demo6 {
     public static void main(String[] args) {
         // EngineeringStudent es1 = new EngineeringStudent();
         // es1.name = "Anny";
