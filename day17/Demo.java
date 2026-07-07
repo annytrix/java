@@ -1,5 +1,0 @@
-//abstraction
-
-public class Demo {
-    
-}

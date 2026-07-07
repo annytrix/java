@@ -1,7 +1,4 @@
 
-import java.security.PrivateKey;
-
-//Encapsolation
 
 public class Encap {
     public static void main(String[] args) {
@@ -30,33 +27,33 @@ class BnakAccount{
          return balance;
     }
 }
-    class Student{
-   private String name;
-   private int rollnumber;
-   private int age;
-   private String collageString; 
-   Student (String name)
+//     class Student{
+//    private String name;
+//    private int rollnumber;
+//    private int age;
+//    private String collageString; 
+//    Student (String name)
 
 
-    Student (String name,int age, String collage){
-    this.name = name;
-    this.age = age;
-    this.rollnumber = rollnumber;
-    this.collage = collage; 
+//     Student (String name,int age, String collage){
+//     this.name = name;
+//     this.age = age;
+//     this.rollnumber = rollnumber;
+//     this.collage = collage; 
     
-    }
-    //getters/setters
-    public String getname(){
-        return name;
-    }
-    public void setName(String name){
-        this.name = name;
-    }
-    public String getCollage(){
-        return collage;
-    }
-    public void setCollage(String name){
-        //Validations--> collage should be real
-        this.collage = collage;
-    }
-}
+//     }
+//     //getters/setters
+//     public String getname(){
+//         return name;
+//     }
+//     public void setName(String name){
+//         this.name = name;
+//     }
+//     public String getCollage(){
+//         return collage;
+//     }
+//     public void setCollage(String name){
+//         //Validations--> collage should be real
+//         this.collage = collage;
+//     }
+// }
