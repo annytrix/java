@@ -9,7 +9,7 @@ public class const2 {
         System.out.println(s1.rollNums);
         System.out.println(s1.collegeName);
 
-        Student s2 = new Student();
+        //Student s2 = new Student();
     }
 }
     class Student{

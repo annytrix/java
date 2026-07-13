@@ -1,4 +1,5 @@
 // Scanner class
+
 import java.util.Scanner;
 public class Demo5{
     public static void main(String[] args) {
@@ -6,5 +7,6 @@ public class Demo5{
        //  String name = sc.next();
        double age = sc.nextDouble();
         System.out.println(age);
+        sc.close();
     }
 }
