@@ -6,7 +6,7 @@ public class demo {
     }
 }
 
-//polymorphism
+//polymorphism`
 
 interface Payment {
     void pay();
