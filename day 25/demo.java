@@ -1,9 +1,14 @@
 public class demo {
     public static void main(String[] args) {
-        String s1= "Hello";
+        String s1 = "Hello"; // Literal
+        String s2 = "Hello";
 
-        s1.concat(" World");
+        System.out.println(s1 == s2); // true
 
-        System.out.println(s1);
+        String s3 = new String("Anny");  // using new operator
+        String s4 = new String("Anny");
+
+        System.out.println(s3 == s4); // false
+
     }
 }
